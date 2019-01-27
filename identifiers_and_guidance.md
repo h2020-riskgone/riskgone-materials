@@ -82,3 +82,35 @@ Supplier code: PL-AgW50
 CAS.: 7440-22-4
 Batch: NS190325
 
+### ERM00000083
+
+Label: PLGA-AuNP-NP (prepared by WOW method)
+Supplier: 
+Supplier code:
+CAS.: 
+Batch: 
+
+### ERM00000084
+
+Label: PLGA-AuNP-NP (prepard by NanoPrecipitation method)
+Supplier: 
+Supplier code:
+CAS.: 
+Batch: 
+
+### ERM00000085
+
+Label: AuNPs (15nm nominal)
+Supplier: 
+Supplier code:
+CAS.: 
+Batch: 
+
+### ERM00000086
+
+Label: AuNPs (50 nm nominal)
+Supplier: 
+Supplier code:
+CAS.: 
+Batch: 
+
