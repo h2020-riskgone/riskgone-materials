@@ -17,100 +17,101 @@ We here report the assay results for PLGA (erm:ERM00000060) and TiO2 (erm:ERM000
 It is up to the authors to provide further detail, but these identifiers can then be used to
 unique link our research output for the eight RiskGONE materials at any future point in time.
 
-## The eight nanomaterials
+## The nanomaterials
 
 All partners will work with the same materials, same batch.
 
 ### ERM00000060
 
-Label: PLGA
-Supplier: MJR-PharmJet
+* Label: PLGA
+* Supplier: MJR-PharmJet
 
 We do not have much more info on PharmJet particles.
 
 ### ERM00000061
 
-Label: Au-core PLGA NPs
-Supplier: MJR-PharmJet
+* Label: Au-core PLGA NPs
+* Supplier: MJR-PharmJet
 
 We do not have much more info on PharmJet particles.
 
 ### ERM00000062
 
-Label: TiO2
-Supplier: Sigma Aldrich
-Supplier code: 637254
-CAS.: 1317-70-0
-Batch: MKCK4358
+* Label: TiO2
+* Supplier: Sigma Aldrich
+* Supplier code: 637254
+* CAS.: 1317-70-0
+* Batch: MKCK4358
 
 ### ERM00000063
 
-Label: ZnO
-Supplier: Sigma Aldrich
-Supplier code: 721077
-CAS.: 1314-13-2
-Batch: MKCJ4155
+* Label: ZnO
+* Supplier: Sigma Aldrich
+* Supplier code: 721077
+* CAS.: 1314-13-2
+* Batch: MKCJ4155
 
 ### ERM00000064
-Label: TiO2
-Supplier: JRC
-Supplier code: JRCNM01005a
-CAS.: 13463-67-7
-Vial: 990760
+
+* Label: TiO2
+* Supplier: JRC
+* Supplier code: JRCNM01005a
+* CAS.: 13463-67-7
+* Vial: 990760
 
 ### ERM00000065
 
-Label: ZnO
-Supplier: JRC
-Supplier code: JRCNM01101a
-CAS.: 1314-13-2
-Vial: 990435
+* Label: ZnO
+* Supplier: JRC
+* Supplier code: JRCNM01101a
+* CAS.: 1314-13-2
+* Vial: 990435
 
 ### ERM00000066
 
-Label: MWCNT
-Supplier: JRC
-Supplier code: JRCNM04001a
-CAS.:7782-42-5
-Vial: 990483
+* Label: MWCNT
+* Supplier: JRC
+* Supplier code: JRCNM04001a
+* CAS.:7782-42-5
+* Vial: 990483
 
 ### ERM00000067
 
-Label: Ag nanowires
-Supplier: Plasmachem
-Supplier code: PL-AgW50
-CAS.: 7440-22-4
-Batch: NS190325
+* Label: Ag nanowires
+* Supplier: Plasmachem
+* Supplier code: PL-AgW50
+* CAS.: 7440-22-4
+* Batch: NS190325
 
 ### ERM00000083
 
-Label: PLGA-AuNP-NP (prepared by WOW method)
-Supplier: 
-Supplier code:
-CAS.: 
-Batch: 
+* Label: PLGA-AuNP-NP (prepared by WOW method)
+* Supplier: 
+* Supplier code:
+* CAS.: 
+* Batch: 
 
 ### ERM00000084
 
-Label: PLGA-AuNP-NP (prepard by NanoPrecipitation method)
-Supplier: 
-Supplier code:
-CAS.: 
-Batch: 
+* Label: PLGA-AuNP-NP (prepard by NanoPrecipitation method)
+* Supplier: 
+* Supplier code:
+* CAS.: 
+* Batch: 
 
 ### ERM00000085
 
-Label: AuNPs (15nm nominal)
-Supplier: 
-Supplier code:
-CAS.: 
-Batch: 
+* Label: AuNPs (15nm nominal)
+* Supplier: 
+* Supplier code:
+* CAS.: 
+* Batch: 
 
 ### ERM00000086
 
-Label: AuNPs (50 nm nominal)
-Supplier: 
-Supplier code:
-CAS.: 
-Batch: 
+* Label: AuNPs (50 nm nominal)
+* Supplier: 
+* Supplier code:
+* CAS.: 
+* Batch: 
 
