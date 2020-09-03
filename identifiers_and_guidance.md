@@ -115,3 +115,35 @@ We do not have much more info on PharmJet particles.
 * CAS.: 
 * Batch: 
 
+### ERM00000087
+
+* Label: Citrate coated Ag
+* Supplier: NanoComposix 
+* Supplier code:
+* CAS.: 
+* Batch: 
+
+### ERM00000088
+
+* Label: CuO
+* Supplier: PlasmaChem
+* Supplier code:
+* CAS.: 
+* Batch: 
+
+### ERM00000089
+
+* Label: Tungstan carbide
+* Supplier: NanoAmor
+* Supplier code:
+* CAS.: 
+* Batch: 
+
+### ERM00000090
+
+* Label: CdTe Qdots
+* Supplier: PlasmaChem
+* Supplier code:
+* CAS.: 
+* Batch: 
+
