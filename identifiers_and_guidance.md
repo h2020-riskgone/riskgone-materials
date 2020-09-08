@@ -133,7 +133,7 @@ We do not have much more info on PharmJet particles.
 
 ### erm:ERM00000089
 
-* Label: Tungstan carbide
+* Label: Tungsten carbide
 * Supplier: NanoAmor
 * Supplier code:
 * CAS.: 
