@@ -86,10 +86,10 @@ We do not have much more info on PharmJet particles.
 ### erm:ERM00000083
 
 * Label: PLGA-AuNP-NP (prepared by WOW method)
-•	Supplier: PharmJet
-•	Supplier code: npSCOPE-MJR-20190919-2
-•	CAS.: 7440-57-5
-•	Batch: NA 
+* Supplier: PharmJet
+*	Supplier code: npSCOPE-MJR-20190919-2
+*	CAS.: 7440-57-5
+*	Batch: NA 
 
 ### erm:ERM00000084
 
