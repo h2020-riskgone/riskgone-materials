@@ -8,6 +8,8 @@ conveniently done using the US/EU "compact identifier" standard (which actually 
 to HGNC codes). The compact identifier code for ERM identifiers is 'erm'. That means that
 the identifiers look like erm:ERM00000060.
 
+### Written documentation
+
 Example use in written reports:
 
 ```
@@ -16,6 +18,18 @@ We here report the assay results for PLGA (erm:ERM00000060) and TiO2 (erm:ERM000
 
 It is up to the authors to provide further detail, but these identifiers can then be used to
 unique link our research output for the eight RiskGONE materials at any future point in time.
+
+### Spreadsheets
+
+In spreadsheets where nanomaterials are discussed, an additional column can be added:
+
+![](93666458-c4097980-fa7e-11ea-86ee-13bc27a78028.png)
+
+It should also be noted that the data templates downloaded from the knowledgebase natively support
+the ERM identifiers:
+
+![](93486043-69e8a700-f90c-11ea-8f1f-a108a79ba9e5.png)
+
 
 ## The nanomaterials
 
