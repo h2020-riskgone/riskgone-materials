@@ -161,3 +161,12 @@ We do not have much more info on PharmJet particles.
 * CAS.: 
 * Batch: 
 
+### erm:ERM00000325 
+
+* Label: RiskGONE NM 17
+* Particles: MWCNT
+* Supplier: Nanocyl (Belgium)
+* Supplier name: AQUACYL NC7000
+* Supplier code: AQUACYLTM AQ0303
+* Preparation: 3 wt. % dispersion (dispersant covered by industrial PR)
+* Aspect: pitch-black dense viscous suspension
