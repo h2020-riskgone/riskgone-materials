@@ -163,7 +163,8 @@ We do not have much more info on PharmJet particles.
 
 ### erm:ERM00000325 
 
-* Label: RiskGONE NM 17
+* Label: MWCNT 3wt% AQUACYL 0303-NC7000
+* Synonym: RiskGONE NM 17
 * Particles: MWCNT
 * Supplier: Nanocyl (Belgium)
 * Supplier name: AQUACYL NC7000
