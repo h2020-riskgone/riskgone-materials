@@ -36,6 +36,18 @@ the ERM identifiers:
 All partners will work with the same materials, same batch.
 
 ### erm:ERM00000060
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "PLGA",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000060", "erm:ERM00000060", "ERM00000060"
+  ]
+}</script>
 
 * Label: PLGA
 * Supplier: MJR-PharmJet
