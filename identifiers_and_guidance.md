@@ -55,6 +55,18 @@ All partners will work with the same materials, same batch.
 We do not have much more info on PharmJet particles.
 
 ### erm:ERM00000061
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "Au-core PLGA NPs",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000061", "erm:ERM00000061", "ERM00000061"
+  ]
+}</script>
 
 * Label: Au-core PLGA NPs
 * Supplier: MJR-PharmJet
@@ -62,6 +74,19 @@ We do not have much more info on PharmJet particles.
 We do not have much more info on PharmJet particles.
 
 ### erm:ERM00000062
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "TiO2",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000062", "erm:ERM00000062", "ERM00000062",
+    "1317-70-0"
+  ]
+}</script>
 
 * Label: TiO2
 * Supplier: Sigma Aldrich
@@ -70,6 +95,19 @@ We do not have much more info on PharmJet particles.
 * Batch: MKCK4358
 
 ### erm:ERM00000063
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "ZnO",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000063", "erm:ERM00000063", "ERM00000063",
+    "1314-13-2"
+  ]
+}</script>
 
 * Label: ZnO
 * Supplier: Sigma Aldrich
@@ -78,6 +116,19 @@ We do not have much more info on PharmJet particles.
 * Batch: MKCJ4155
 
 ### erm:ERM00000064
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "TiO2",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000064", "erm:ERM00000064", "ERM00000064",
+    "13463-67-7", "JRCNM01005a"
+  ]
+}</script>
 
 * Label: TiO2
 * Supplier: JRC
@@ -86,6 +137,19 @@ We do not have much more info on PharmJet particles.
 * Vial: 990760
 
 ### erm:ERM00000065
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "ZnO",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000065", "erm:ERM00000065", "ERM00000065",
+    "1314-13-2", "JRCNM01101a"
+  ]
+}</script>
 
 * Label: ZnO
 * Supplier: JRC
@@ -94,6 +158,19 @@ We do not have much more info on PharmJet particles.
 * Vial: 990435
 
 ### erm:ERM00000066
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "ZnO",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000066", "erm:ERM00000066", "ERM00000066",
+    "7782-42-5", "JRCNM04001a"
+  ]
+}</script>
 
 * Label: MWCNT
 * Supplier: JRC
@@ -102,6 +179,19 @@ We do not have much more info on PharmJet particles.
 * Vial: 990483
 
 ### erm:ERM00000067
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "Ag nanowires",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000067", "erm:ERM00000067", "ERM00000067",
+    "7440-22-4"
+  ]
+}</script>
 
 * Label: Ag nanowires
 * Supplier: Plasmachem
@@ -110,6 +200,19 @@ We do not have much more info on PharmJet particles.
 * Batch: NS190325
 
 ### erm:ERM00000083
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "PLGA-AuNP-NP (prepared by WOW method)",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000083", "erm:ERM00000083", "ERM00000083",
+    "7440-57-5"
+  ]
+}</script>
 
 * Label: PLGA-AuNP-NP (prepared by WOW method)
 * Supplier: PharmJet
@@ -118,6 +221,19 @@ We do not have much more info on PharmJet particles.
 *	Batch: NA 
 
 ### erm:ERM00000084
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "PLGA-AuNP-NP (prepard by NanoPrecipitation method)",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000084", "erm:ERM00000084", "ERM00000084",
+    "7440-57-5"
+  ]
+}</script>
 
 * Label: PLGA-AuNP-NP (prepard by NanoPrecipitation method)
 * Supplier: PharmJet
@@ -126,6 +242,19 @@ We do not have much more info on PharmJet particles.
 * Batch: NA
 
 ### erm:ERM00000085
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "AuNPs (15nm nominal)",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000085", "erm:ERM00000085", "ERM00000085",
+    "7440-57-5"
+  ]
+}</script>
 
 * Label: AuNPs (15nm nominal)
 * Supplier: PharmJet
@@ -134,6 +263,19 @@ We do not have much more info on PharmJet particles.
 * Batch: NA
 
 ### erm:ERM00000086
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "AuNPs (50 nm nominal)",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000086", "erm:ERM00000086", "ERM00000086",
+    "7440-57-5"
+  ]
+}</script>
 
 * Label: AuNPs (50 nm nominal)
 * Supplier: PharmJet
@@ -142,6 +284,18 @@ We do not have much more info on PharmJet particles.
 * Batch: NA
 
 ### erm:ERM00000087
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "Citrate coated Ag",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000087", "erm:ERM00000087", "ERM00000087"
+  ]
+}</script>
 
 * Label: Citrate coated Ag
 * Supplier: NanoComposix 
@@ -150,6 +304,18 @@ We do not have much more info on PharmJet particles.
 * Batch: 
 
 ### erm:ERM00000088
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "CuO",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000088", "erm:ERM00000088", "ERM00000088"
+  ]
+}</script>
 
 * Label: CuO
 * Supplier: PlasmaChem
@@ -158,6 +324,18 @@ We do not have much more info on PharmJet particles.
 * Batch: 
 
 ### erm:ERM00000089
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "Tungsten carbide",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000089", "erm:ERM00000089", "ERM00000089"
+  ]
+}</script>
 
 * Label: Tungsten carbide
 * Supplier: NanoAmor
@@ -166,6 +344,18 @@ We do not have much more info on PharmJet particles.
 * Batch: 
 
 ### erm:ERM00000090
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": "CdTe Qdots",
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000090", "erm:ERM00000090", "ERM00000090"
+  ]
+}</script>
 
 * Label: CdTe Qdots
 * Supplier: PlasmaChem
@@ -174,6 +364,18 @@ We do not have much more info on PharmJet particles.
 * Batch: 
 
 ### erm:ERM00000325 
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "name": [ "MWCNT 3wt% AQUACYL 0303-NC7000", "RiskGONE NM 17" ],
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000325", "erm:ERM00000325", "ERM00000325"
+  ]
+}</script>
 
 * Label: MWCNT 3wt% AQUACYL 0303-NC7000
 * Synonym: RiskGONE NM 17
