@@ -1,5 +1,7 @@
 # RiskGONE materials
 
+![](https://riskgone.eu/wp-content/uploads/sites/11/2019/03/cropped-RISKGONE_Logo_96.png)
+
 Overview of [RiskGONE](https://riskgone.eu/) materials with ERM identifiers.
 
 * RiskGONE identifiers
