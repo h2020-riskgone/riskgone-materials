@@ -20,6 +20,7 @@ All partners will work with the same materials, same batch.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000060",
   "name": "PLGA",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000060", "erm:ERM00000060", "ERM00000060"
@@ -39,6 +40,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000061",
   "name": "Au-core PLGA NPs",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000061", "erm:ERM00000061", "ERM00000061"
@@ -58,6 +60,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000062",
   "name": "TiO2",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000062", "erm:ERM00000062", "ERM00000062",
@@ -79,6 +82,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000063",
   "name": "ZnO",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000063", "erm:ERM00000063", "ERM00000063",
@@ -100,6 +104,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000064",
   "name": "TiO2",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000064", "erm:ERM00000064", "ERM00000064",
@@ -121,6 +126,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000065",
   "name": "ZnO",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000065", "erm:ERM00000065", "ERM00000065",
@@ -142,6 +148,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000066",
   "name": "ZnO",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000066", "erm:ERM00000066", "ERM00000066",
@@ -163,6 +170,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000067",
   "name": "Ag nanowires",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000067", "erm:ERM00000067", "ERM00000067",
@@ -184,6 +192,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000083",
   "name": "PLGA-AuNP-NP (prepared by WOW method)",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000083", "erm:ERM00000083", "ERM00000083",
@@ -205,6 +214,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000084",
   "name": "PLGA-AuNP-NP (prepard by NanoPrecipitation method)",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000084", "erm:ERM00000084", "ERM00000084",
@@ -226,6 +236,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000085",
   "name": "AuNPs (15nm nominal)",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000085", "erm:ERM00000085", "ERM00000085",
@@ -247,6 +258,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000086",
   "name": "AuNPs (50 nm nominal)",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000086", "erm:ERM00000086", "ERM00000086",
@@ -268,6 +280,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM000000837",
   "name": "Citrate coated Ag",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000087", "erm:ERM00000087", "ERM00000087"
@@ -288,6 +301,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000088",
   "name": "CuO",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000088", "erm:ERM00000088", "ERM00000088"
@@ -308,6 +322,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000089",
   "name": "Tungsten carbide",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000089", "erm:ERM00000089", "ERM00000089"
@@ -328,6 +343,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000090",
   "name": "CdTe Qdots",
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000090", "erm:ERM00000090", "ERM00000090"
@@ -348,6 +364,7 @@ We do not have much more info on PharmJet particles.
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
   },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000325",
   "name": [ "MWCNT 3wt% AQUACYL 0303-NC7000", "RiskGONE NM 17" ],
   "identifier": [
     "https://nanocommons.github.io/identifiers/registry#ERM00000325", "erm:ERM00000325", "ERM00000325"
