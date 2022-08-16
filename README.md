@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/467110288.svg)](https://zenodo.org/badge/latestdoi/467110288)
+
 # RiskGONE materials
 
 Private repository with info about the RiskGONE materials
