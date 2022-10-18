@@ -95,6 +95,8 @@ We do not have much more info on PharmJet particles.
 * Supplier code: 721077
 * CAS.: 1314-13-2
 * Batch: MKCJ4155
+* Research output:
+** [The alamar blue assay in the context of safety testing of nanomaterials](https://doi.org/10.3389%2Fftox.2022.981701), 2022
 
 ### erm:ERM00000064
 <script type="application/ld+json">{
@@ -117,6 +119,8 @@ We do not have much more info on PharmJet particles.
 * Supplier code: JRCNM01005a
 * CAS.: 13463-67-7
 * Vial: 990760
+* Research output:
+** [The alamar blue assay in the context of safety testing of nanomaterials](https://doi.org/10.3389%2Fftox.2022.981701), 2022
 
 ### erm:ERM00000065
 <script type="application/ld+json">{
