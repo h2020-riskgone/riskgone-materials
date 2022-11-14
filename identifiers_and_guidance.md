@@ -383,3 +383,54 @@ We do not have much more info on PharmJet particles.
 * Supplier code: AQUACYLTM AQ0303
 * Preparation: 3 wt. % dispersion (dispersant covered by industrial PR)
 * Aspect: pitch-black dense viscous suspension
+
+### erm:ERM00000582
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000582",
+  "name": [ "RiskGONE NM 18" ],
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000582", "erm:ERM00000582", "ERM00000582"
+  ]
+}</script>
+
+* Synonym: RiskGONE NM 18
+
+### erm:ERM00000583
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000583",
+  "name": [ "RiskGONE NM 19" ],
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000583", "erm:ERM00000583", "ERM00000583"
+  ]
+}</script>
+
+* Synonym: RiskGONE NM 19
+
+### erm:ERM00000584
+<script type="application/ld+json">{
+  "@context": "https://schema.org/",
+  "@type": "ChemicalSubstance",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE/"
+  },
+  "@id": "https://nanocommons.github.io/identifiers/registry#ERM00000584",
+  "name": [ "RiskGONE NM 20" ],
+  "identifier": [
+    "https://nanocommons.github.io/identifiers/registry#ERM00000584", "erm:ERM00000584", "ERM00000584"
+  ]
+}</script>
+
+* Synonym: RiskGONE NM 20
